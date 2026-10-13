@@ -1,3 +1,11 @@
+<!--
+CONFIG
+FULL_NAME: Sharik Dayanna Rojas Ibarra
+GITHUB_USER: sharikrojas56
+EMAIL: sharikrojas.sena@gmail.com
+CODE_ORGANIZATION: code-sena
+-->
+
 ## 📌 Perfil
 - **Nombre:** Sharik Dayanna Rojas Ibarra
 - **GitHub:** [@sharikrojas56](https://github.com/@sharikrojas56)
